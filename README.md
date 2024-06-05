@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Caiden701
-- 👀 I’m interested in electronics and programming.
-- 🌱 I’m currently learning electrical engineering & energy engineering Technology.
+- 👋 Hi, I’m @Caiden701 (Caiden Moreno)
+- 👀 I’m interested in electronics/programming/microcontrollers/prototyping
+- 🌱 I’m currently double majoring in electrical engineering & energy engineering Technology.
 - 💞️ I’m looking to collaborate on embedded projects or other programming projects. I'm relatively new to programming but eager to learn!
 - 📫 How to reach me moreno.caiden02@gmail.com
 - 😄 Pronouns: he/him
